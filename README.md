@@ -65,5 +65,5 @@ Hice un diagrama que muestra cómo se mueve el programa: desde que entras al men
 # Sobre mí
 Soy Nerquis Carrera y este proyecto lo hice para practicar y compartir algo útil con todos.
 
-#Licencia
+# Licencia
 Este proyecto es para fines educativos y puedes usarlo, modificarlo y compartirlo sin problema.
